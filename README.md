@@ -1,6 +1,6 @@
 # Video - Edge Detection
 
-Truy cập trang web tại đường dẫn: https://ariesanhthu.github.io/homework5/
+Truy cập trang web tại đường dẫn: https://ariesanhthu.github.io/Real-time-video-Edge-Detection-on-the-Web/
 
 Demo website chạy hoàn toàn local với:
 
